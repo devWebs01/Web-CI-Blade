@@ -78,24 +78,6 @@ php spark serve
 
 - CodeIgniter 4.5.4 ([CodeIgniter](https://www.codeigniter.com/download))
 
-## Changelog
-
-See [CHANGELOG.md](./CHANGELOG.md)
-
-## Contributing
-
-Thank you for considering contributing to alternative admin. The contribution guide can be found in the [CONTRIBUTING.md](./.github/CONTRIBUTING.md).
-
-## Code of Conduct
-
-In order to ensure that the alternate admin community is welcoming to all, please review and abide by the [CODE_OF_CONDUCT](./.github/CODE_OF_CONDUCT.md).
-
-## Authors
-
-- **Manuel Gil** - _Owner_ - [ManuelGil](https://github.com/ManuelGil)
-
-See also the list of [contributors](https://github.com/ManuelGil/ci4-blade/contributors)
-who participated in this project.
 
 ## License
 
